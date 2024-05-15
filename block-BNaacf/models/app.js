@@ -11,5 +11,5 @@ let addressSchema = new Schema({
   city: String,
   state: String,
   pin: Number,
-  user: Schema.Type.objectid,
+  user: Schema.Types.ObjectId,
 });
