@@ -1,0 +1,25 @@
+{
+  "name": "TA-AC-BACKEND-mongoose-js-TNaaad",
+  "version": "1.0.0",
+  "description": "TA-C-BACKEND-mongoose-js-TNaaad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D804/TA-AC-BACKEND-mongoose-js-TNaaad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D804/TA-AC-BACKEND-mongoose-js-TNaaad/issues"
+  },
+  "homepage": "https://github.com/D804/TA-AC-BACKEND-mongoose-js-TNaaad#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0"
+  }
+}
